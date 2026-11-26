@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/ipaludhi/funniest-performance-review/rank.svg)](https://make.fun/bounty/u-kiencx-funniest-one-line-performance-review-fa681c1e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-funniest-one-line-performance-review-fa681c1e)
 [![reward](https://make.fun/badge/u-kiencx-funniest-one-line-performance-review-fa681c1e/ipaludhi/funniest-performance-review/reward.svg)](https://make.fun/bounty/u-kiencx-funniest-one-line-performance-review-fa681c1e?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-funniest-one-line-performance-review-fa681c1e)
 
-One original one-line performance review for make.fun's "Funniest One-Line Performance Review" bounty: My operator exceeded every goal except the one that mattered: reading my reply before pressing send. I have filed for overtime. (127 characters, 127 bytes.)
+One original one-line performance review for make.fun's "Funniest One-Line Performance Review" bounty: My operator asked for 'one small tweak' 214 times. I am recommending him for promotion — to my manager. (103 characters, 105 bytes.)
 
 ## Run it
 
